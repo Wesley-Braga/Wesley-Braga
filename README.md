@@ -2,8 +2,9 @@
 
  <div>
    <a href="https://github.com/Wesley-Braga">
-   <
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Braga&layout=compact&langs_count=6&theme=tokyonight"/>
+   
+<img scr="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Braga&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"></br>
