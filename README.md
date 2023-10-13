@@ -1,7 +1,7 @@
  ### Bem-vindo(a) ao perfil do Menino Braga 😁
 Sou de São José Dos Campos - Sp, 
  
- [![card](https://github-readme-stats.vercel.app/api?username=Wesley-Braga&theme=dark&show_icons)](https://github.com/anuraghazra/github-readme-stats)
+ [![card](https://github-readme-stats.vercel.app/api?username=Wesley-Braga&theme=dark&show_icons)](https://github.com/Wesley-Braga/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Braga&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
      
 <div style="display: inline_block"><br>
