@@ -2,7 +2,7 @@
 Sou de São José Dos Campos - Sp, 
  
  [![card](https://github-readme-stats.vercel.app/api?username=Wesley-Braga&theme=dark&show_icons)](https://github.com/Wesley-Braga/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Braga&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Braga&layout=compact&theme=dark)](https://github.com/Wesley-Braga/github-readme-stats) 
      
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
